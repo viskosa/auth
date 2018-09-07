@@ -1,0 +1,12 @@
+.form__wrapper {
+	width: 400px;
+	margin: 0 auto;
+}
+
+.form__label {
+	margin-left: 30px;
+}
+
+.error {
+	color: red;
+}
